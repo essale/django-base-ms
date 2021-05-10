@@ -1,0 +1,26 @@
+# Django
+django==3.2.1
+django-markdown-deux
+djangorestframework
+django-cors-headers
+setuptools
+applicationinsights
+whitenoise
+
+# Request
+urllib3
+requests
+
+# DB
+mysqlclient==2.0.1
+django-mysql==3.9
+
+# DATA
+pandas
+statsmodels
+matplotlib
+numpy
+
+# Crypto-Exchange-SDK
+binance
+python-binance
